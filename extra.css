@@ -74,6 +74,7 @@ a {
 .nav-tabs .nav-link {
     border-bottom: none;
     color: #e1e1e6;
+    padding: 8px 22px;
 }
 
 .nav-tabs .nav-link:hover {
